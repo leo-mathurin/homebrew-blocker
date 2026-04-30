@@ -1,6 +1,8 @@
 # Homebrew Blocker
 
-Homebrew tap for [Blocker.app](https://github.com/leo-mathurin/blocker-releases/releases) — a minimal macOS website blocker with recurring schedules.
+Homebrew tap for [Blocker](https://getblocker.app), a minimal macOS website blocker with recurring schedules.
+
+Website: https://getblocker.app
 
 ## Install
 
