@@ -8,7 +8,7 @@ cask "blocker" do
   url "https://github.com/leo-mathurin/blocker-releases/releases/download/v#{version}/blocker-#{version}-#{arch}.dmg",
       verified: "github.com/leo-mathurin/blocker-releases/"
   name "Blocker"
-  desc "Minimal macOS website blocker with recurring schedules"
+  desc "Minimal website blocker with recurring schedules"
   homepage "https://github.com/leo-mathurin/homebrew-blocker"
 
   livecheck do
